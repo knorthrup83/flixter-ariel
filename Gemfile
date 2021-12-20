@@ -89,3 +89,5 @@ gem 'stripe'
 gem 'ranked-model', :git => 'git@github.com:mixonic/ranked-model.git'
 
 gem 'jquery-ui-rails'
+
+gem "font-awesome-rails"
