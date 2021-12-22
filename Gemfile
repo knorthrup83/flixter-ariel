@@ -91,3 +91,5 @@ gem 'ranked-model', '~> 0.4.1'
 gem 'jquery-ui-rails'
 
 gem "font-awesome-rails"
+
+gem 'yarn', '~> 0.1.1'
