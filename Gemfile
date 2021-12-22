@@ -86,7 +86,7 @@ gem 'carrierwave-aws'
 
 gem 'stripe'
 
-gem 'ranked-model', :git => 'git@github.com:mixonic/ranked-model.git'
+gem 'ranked-model', '~> 0.4.1'
 
 gem 'jquery-ui-rails'
 
